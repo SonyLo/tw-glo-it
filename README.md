@@ -1,29 +1,38 @@
-# tw-glo-it
+# 🌐 tw-glo-it
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+## 📦 Установка зависимостей
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+## 🚀 Запуск в режиме разработки
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## 📦 Сборка для продакшена
 
 ```sh
 npm run build
+```
+
+---
+
+## 🖥️ Серверная часть
+
+В проекте имеется серверная часть, расположенная в папке `server`.
+
+### Установка зависимостей сервера
+
+```sh
+cd server
+npm install
+```
+
+### Запуск сервера
+
+```sh
+npm run start
 ```
